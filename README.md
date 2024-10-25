@@ -11,6 +11,26 @@
 <h3 align="center">
   25/10/2024
   <br>
+  VERSION PRE-ALPHA 0.3
+</h3>
+<h4 align="center"></h4>
+<h4 align="center">
+  - Se cambio el diseño de la galleta
+  <br>
+  - Se añadio logo
+  <br>
+  - Se corrigio sistema de multiplicadores
+  <br>
+  - Se añadio sistema de fases
+  <br>
+  - Se añadieron las siguientes fases: mini, base, kaioken, false super cookie
+</h4>
+
+<hr>
+
+<h3 align="center">
+  25/10/2024
+  <br>
   VERSION PRE-ALPHA 0.2 
 </h3>
 <h4 align="center"></h4>
@@ -19,7 +39,9 @@
   <br>
   - Se añadio sistema responsivo.
 </h4>
+
 <hr>
+
 <h3 align="center">
   24/10/2024
   <br>

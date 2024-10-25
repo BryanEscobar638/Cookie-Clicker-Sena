@@ -37,7 +37,7 @@
 <h4 align="center">
   - Se añadio estilos con el framework de bootstrap
   <br>
-  - Se añadio sistema responsivo.
+  - Se añadio sistema responsivo
 </h4>
 
 <hr>
